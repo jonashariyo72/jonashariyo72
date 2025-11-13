@@ -64,6 +64,6 @@ Cada carpeta contiene las materias correspondientes con  **prácticas, teórías
 
  jonashariyo70@gmail.com
 📍 Estudiante de Licenciatura en Sistemas – UNLP  
-🔗 [LinkedIn](https://www.linkedin.com/in/jon%C3%A1s-hariyo-93a770367/)  
+🔗 * **Perfil de Linkedin: **[LinkedIn](https://www.linkedin.com/in/jon%C3%A1s-hariyo-93a770367/)  
 
 
