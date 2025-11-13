@@ -6,9 +6,9 @@ Repositorio que reúne todos los trabajos, proyectos y prácticas realizados a l
 
 ## Estructura del Repositorio
 
-1er Año ^/
-2do Año ^/
-3er Año ^/ 
+1er Año /
+2do Año /
+3er Año  
 
 
 Cada carpeta contiene las materias correspondientes con  **prácticas, teórías, parciales, finales**.
@@ -50,7 +50,7 @@ Cada carpeta contiene las materias correspondientes con  **prácticas, teórías
 
 ---
 
-## 📊 Estadísticas Personales (opcional)
+## 📊 Estadísticas Personales 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonashariyo72&layout=compact)
 ![Repo Stats](https://github-readme-stats.vercel.app/api?username=jonashariyo72&show_icons=true&theme=default)
@@ -58,7 +58,10 @@ Cada carpeta contiene las materias correspondientes con  **prácticas, teórías
 ---
 
 ## 💡 Información Personal 
-**Hariyo Abalos, Máximo Jonás**  ^/
+**Hariyo Abalos, Máximo Jonás**  
+
+---------------------------------
+
  jonashariyo70@gmail.com
 📍 Estudiante de Licenciatura en Sistemas – UNLP  
 🔗 [LinkedIn](https://www.linkedin.com/in/jon%C3%A1s-hariyo-93a770367/)  
