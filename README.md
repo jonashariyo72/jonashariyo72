@@ -6,9 +6,9 @@ Repositorio que reúne todos los trabajos, proyectos y prácticas realizados a l
 
 ## Estructura del Repositorio
 
-1er Año/
-2do Año/
-3er Año/
+1er Año ^/
+2do Año ^/
+3er Año ^/ 
 
 
 Cada carpeta contiene las materias correspondientes con  **prácticas, teórías, parciales, finales**.
@@ -27,16 +27,21 @@ Cada carpeta contiene las materias correspondientes con  **prácticas, teórías
 ## 🧠 Contenido Destacado
 
 - **Fundamentos de Organización de Datos (FOD)** → Archivos, Árboles B, Hashing  
-- **Algoritmos y Estructuras de Datos (AyED)** → Recursividad, Grafos, Análisis de algoritmos  
+- **Algoritmos y Estructuras de Datos (AyED)** → Recursividad, Grafos, Análisis de algoritmos
+- **Orientación a Objetos 1 (OO1)** → Inicio de Programación Orientada a Objetos, clases, subclases, herencia, stream
 - **Orientación a Objetos 2 (OO2)** → Patrones de diseño, Refactoring, Frameworks  
 - **Seminario de Lenguajes - Python** → Procesamiento de datos y desarrollo con Streamlit  
 - **Diseño de Bases de Datos** → Modelado E-R, SQL, Docker, PostgreSQL  
+- **Programación Concurrente** → Programación en paralelo, semáforos, monitores, pasajes de mensajes
+- **Ingeniería de Software 1** → Técnicas de Elicitación de Requerimientos
+
+
 
 ---
 
 ## 🧰 Tecnologías Utilizadas
 
-| Lenguaje | Tecnologías / Frameworks |
+| Lenguaje | Utilizado en |
 |-----------|--------------------------|
 | **Java** | OO1, OO2, AyED |
 | **Python** | Streamlit, Pandas |
@@ -52,10 +57,9 @@ Cada carpeta contiene las materias correspondientes con  **prácticas, teórías
 
 ---
 
-## 💡 Autor
-
-**Hariyo Abalos, Máximo Jonás**  
- ~M jonashariyo70@gmail.com
+## 💡 Información Personal 
+**Hariyo Abalos, Máximo Jonás**  ^/
+ jonashariyo70@gmail.com
 📍 Estudiante de Licenciatura en Sistemas – UNLP  
 🔗 [LinkedIn](https://www.linkedin.com/in/jon%C3%A1s-hariyo-93a770367/)  
 
