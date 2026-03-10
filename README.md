@@ -6,10 +6,10 @@ Repositorio que reúne todos los trabajos, proyectos y prácticas realizados a l
 
 ## 📂 Estructura del Repositorio
 
-* 📘 [**1er Año**](./1er%20Año)
-* 📗 [**2do Año**](./2do%20Año)
-* 📙 [**3er Año**](./3er%20Año)
-* 📓 [**4to Año**](./4to%20Año)
+* 📘 [**1er Año**](https://github.com/jonashariyo72/Licenciatura-en-Sistemas---UNLP/tree/main/1er%20A%C3%B1o)
+* 📗 [**2do Año**](https://github.com/jonashariyo72/Licenciatura-en-Sistemas---UNLP/tree/main/2do%20A%C3%B1o)
+* 📙 [**3er Año**](https://github.com/jonashariyo72/Licenciatura-en-Sistemas---UNLP/tree/main/3er%20A%C3%B1o)
+* 📓 [**4to Año**](https://github.com/jonashariyo72/Licenciatura-en-Sistemas---UNLP/tree/main/4to%20A%C3%B1o)
 
 
 Cada carpeta contiene las materias correspondientes con  **prácticas, teórías, parciales, finales**.
@@ -20,7 +20,7 @@ Cada carpeta contiene las materias correspondientes con  **prácticas, teórías
 ###      Sobre mí / About Me
 * 📍 **Location:** La Plata, Argentina.
 * 🎓 **Status:** Advanced Systems Engineering student.
-* 💻 **Skills:** Lenguajes de programación, Desarrollo Web, Fundamentos en estructuras y algoritmos de datos, Trabajo en grupo, etc...
+* 💻 **Skills:** Lenguajes de programación, Desarrollo Web, Programación Orientada a Objetos, Fundamentos en estructuras y algoritmos de datos, Trabajo en grupo, etc...
 
 ---
 
